@@ -1130,9 +1130,8 @@ label.error#captcha-error {
 	width: 32px;
 	font-size: 14px;
 	display: inline-block;
-	text-align: center;
+	text-align: right;
 	margin-right: 10px;
-	margin-top: 10px; 
 }
 
 .sample-icon-list .sample-icon a:hover {
@@ -6208,15 +6207,14 @@ section.timeline .timeline-box .owl-carousel {
 .social-icons li {
 	display: inline-block;
 	margin: -1px 1px 5px 0;
-	padding: 50px;
+	padding: 0;
 	border-radius: 100%;
 	overflow: visible;
 	box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.3);
 }
 
 .social-icons li a {
-
-	/*-webkit-transition: all 0.2s ease;
+	-webkit-transition: all 0.2s ease;
 	-moz-transition: all 0.2s ease;
 	transition: all 0.2s ease;
 	background: #FFF;
@@ -6227,31 +6225,20 @@ section.timeline .timeline-box .owl-carousel {
 	width: 30px;
 	text-align: center;
 	color: #333 !important;
-	text-decoration: none;*/
-	background: #CCC;
-	border-radius: 25px;
-	display: inline-block;
-	height: 30px;
-	line-height: 30px;
-	text-align: center;
-	width: 30px;
-	
+	text-decoration: none;
 }
 
 .social-icons li:hover a {
-
 	background: #171717;
 	color: #FFF !important;
 }
 
 .social-icons li:hover.social-icons-twitter a {
-	padding-top: 50px;
 	background: #1aa9e1;
 }
 
 .social-icons li:hover.social-icons-facebook a {
 	background: #3b5a9a;
-	padding-top: 40%;
 }
 
 .social-icons li:hover.social-icons-linkedin a {

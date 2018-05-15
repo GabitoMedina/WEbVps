@@ -15,9 +15,11 @@
 		<script src="vendor/vide/vide.min.js"></script>
 
 		<!-- Thema slides from logos -->
-		<script src="vendor/logos/jquery-2.2.0.min.js" ></script>
-		<script src="vendor/logos/slick.js"></script>
-		<script src="vendor/logos/bootstrap.min.js"></script>
+		<script  src="js/logos/index.js"></script>
+		<script src="js/logos/jquery-2.2.0.min.js" type="text/javascript"></script>
+	    <script src="js/logos/slick.js"></script>
+	    <script src="js/logos/bootstrap.min.js"></script>
+
 		
 		<!-- Theme Base, Components and Settings -->
 		<script src="js/theme.js"></script>

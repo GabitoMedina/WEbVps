@@ -1,5 +1,5 @@
 <div class="container">
-	<div class="container">
+	<!-- <div class="container">
   <h2>Our  Partners</h2>
    <section class="customer-logos slider">
       <div class="slide"><img src="https://image.freepik.com/free-vector/luxury-letter-e-logo-design_1017-8903.jpg"></div>
@@ -11,7 +11,7 @@
       <div class="slide"><img src="https://image.freepik.com/free-vector/background-of-spots-halftone_1035-3847.jpg"></div>
       <div class="slide"><img src="https://image.freepik.com/free-vector/retro-label-on-rustic-background_82147503374.jpg"></div>
    </section>
-</div>
+</div> -->
 		<div class="row">
 
 			<div class="col-md-3">

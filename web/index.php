@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><!-- Basic -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<!-- Basic -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Inicio - Sucrecoin</title>
 	<?php include("includes/head.php"); ?>
@@ -11,11 +12,7 @@
 		gtag('js', new Date());
 		gtag('config', 'UA-106748363-1');
 	</script>
-	<script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
-
+	
 </head>
 <body>
 	<div class="body">
@@ -252,37 +249,27 @@
 							<div class="container">
 							<div class="row">
 							<hr class="tall" /></div>
-							</div>							<h4 class="heading-primary lead tall">Por que SucreCoin,</h4>
+							</div>
+							<h1>Por que SucreCoin</h1>
 
-							<h4 class="heading-primary lead tall">Damos Loor a los Heroes de Latinoamerica <a href="https://es.wikipedia.org/wiki/Antonio_Jos%C3%A9_de_Sucre">'General Antonio Jose de Sucre'</a>,<br />
-								A la extinta&nbsp;Moneda Ecuatoriana <a href="https://es.wikipedia.org/wiki/Sucre_ecuatoriano">'El Sucre'</a>.&nbsp;</h4>
+							<h4 class="heading-primary lead tall">Damos Loor a los Heroes de Latinoamerica <a href="https://es.wikipedia.org/wiki/Antonio_Jos%C3%A9_de_Sucre"><strong>'General Antonio Jose de Sucre'</strong></a>,<br />
+								A la extinta&nbsp;Moneda Ecuatoriana <a href="https://es.wikipedia.org/wiki/Sucre_ecuatoriano"><strong>'El Sucre'</strong></a>.&nbsp;</h4>
 							</div>
 						</div>
+						<hr class="tall" />
+
+						<!-- 15/05/18:aumento de logos -->
 
 						<div class="row center">
-							<div class="owl-carousel owl-theme" data-plugin-options="{'items': 6, 'autoplay': true, 'autoplayTimeout': 3000}">
-							<!--<div>
-								<img class="img-responsive" src="img/logos/logo-1.png" alt="">
-							</div>-->
+							
+							<div>
+								<?php include('includes/logos.php'); ?>
 								
 							</div>
+							
 						</div>
 				</div>
-		<!-- /***** 20/03/2018: AUMENTO DE LOGOS*****/ -->
-		<!-- <div class="home-intro" id="home-intro">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-8">
-						<h1>ms </h1>
-					</p>
-					</div>
-					<div class="col-md-4">
-					<h2>logos</h2>
-					</div>
-				</div>
-			</div>
-		</div> -->
-
+		
 	</div>
 
 	<footer id="footer">

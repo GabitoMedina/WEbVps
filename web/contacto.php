@@ -15,14 +15,14 @@
 			<section class="page-header">
 
 				<div class="container">
-					<div class="row">
+					<!-- <div class="row">
 						<div class="col-md-12">
 							<ul class="breadcrumb">
 								<li><a href="#">Inicio</a></li>
 								<li class="active">Contactanos</li>
 							</ul>
 						</div>
-					</div>
+					</div> -->
 
 					<div class="row">
 						<div class="col-md-12">
@@ -106,7 +106,17 @@ El Sucre es la moneda antigua de los Ecuatorianos hasta el año 2000, dicho año
 						</div>
 					</div>
 				</div>
+
 			</section>
+			
+
+						<!-- /***** 20/03/2018: AUMENTO DE LOGOS*****/ -->
+
+						<!-- <div class="row center">							 -->
+							<div>
+								<?php include('includes/logos.php'); ?>
+							</div>
+						</div>
 
 
 			<footer id="footer">

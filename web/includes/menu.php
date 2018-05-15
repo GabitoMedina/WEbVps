@@ -47,7 +47,7 @@
 										
 										<li class="<?php if($_GET['op'] == 'inicio'){ echo 'active'; } ?>" id="op_inicio"><a href="index.php?op=inicio">Inicio</a></li>
 										<li class="<?php if($_GET['op'] == 'equipo'){ echo 'active'; } ?>" id="op_nosotros"><a href="equipo.php?op=equipo">Equipo</a></li>
-										<li><a href="https://sucrecoin.org/public">ICO</a></li>
+										<li><a href="https://sucrecoin.org/public" target="_blank">ICO</a></li>
 										<li class="dropdown <?php if($_GET['op'] == 'sucrecoin'){ echo 'active'; } ?>">
 														<a class="dropdown-toggle" href="#">
 															Sucrecoin
