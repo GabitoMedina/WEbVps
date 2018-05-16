@@ -15,14 +15,14 @@
 			<section class="page-header">
 
 				<div class="container">
-					<!-- <div class="row">
+					<div class="row">
 						<div class="col-md-12">
 							<ul class="breadcrumb">
 								<li><a href="#">Inicio</a></li>
 								<li class="active">Contactanos</li>
 							</ul>
 						</div>
-					</div> -->
+					</div>
 
 					<div class="row">
 						<div class="col-md-12">
@@ -73,7 +73,7 @@
 
 						<h4 class="heading-primary">¿Por qué <strong>Sucrecoin</strong>?</h4><p>
 El Sucre es la moneda antigua de los Ecuatorianos hasta el año 2000, dicho año las acciones de un gobierno no conservador devaluó el costo de la moneda, Al entablar un reemplazo de Moneda los billetes quedaron para la Historia del Pais.
-</p><p>El Febrero del 2017, Dimos el paso para crear una cryptomoneda y Brindar Honor a los próceres de las distintas independencias en Latinoamerica. </p>
+</p><p>En Febrero del 2017, dimos el paso para crear una cryptomoneda y Brindar Honor a los próceres de las distintas independencias en Latinoamerica. </p>
 
 						<h4 class="heading-primary">Síguenos <strong>en</strong></h4>
 							<ul class="list list-icons list-icons-style-3 mt-xlg">
@@ -85,9 +85,7 @@ El Sucre es la moneda antigua de los Ecuatorianos hasta el año 2000, dicho año
 								<li><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:hola@sucrecoin.org">hola@sucrecoin.org</a></li>
 							</ul>
 
-							<hr>
-
-						<hr /></div>
+						</div>
 					</div>
 				</div>
 			</div>
@@ -105,18 +103,17 @@ El Sucre es la moneda antigua de los Ecuatorianos hasta el año 2000, dicho año
 							<div class="call-to-action-btn"><a class="btn btn-lg btn-primary" href="http://sucrecoin.org/public" target="_blank">Registrate</a></div>
 						</div>
 					</div>
-				</div>
+				</div>			
 
 			</section>
-			
-
-						<!-- /***** 20/03/2018: AUMENTO DE LOGOS*****/ -->
-
-						<!-- <div class="row center">							 -->
-							<div>
-								<?php include('includes/logos.php'); ?>
-							</div>
-						</div>
+			<div class="row">
+				<hr class="tall" />
+			</div>
+				<!-- /***** 20/03/2018: AUMENTO DE LOGOS*****/ -->
+			<div>
+				<?php include('includes/logos.php'); ?>
+			</div>				
+						
 
 
 			<footer id="footer">

@@ -37,51 +37,108 @@
 								<i class="fa fa-bars"></i>
 							</button>
 							<ul class="header-social-icons social-icons hidden-xs">
-								<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-								<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-								<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i></a></li>
+								<table style="width:100%">
+									<tr>
+										<th>
+											<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>				
+										</th>
+										<th>
+											<br>
+										</th>
+										<th>
+											<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+										</th>
+										<th>
+											
+										</th>
+										<th>
+											
+										</th>
+										<th>
+											<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i></a></li>
+										</th>
+									</tr>
+									<tr>
+										<td>
+											<p>Facebook</p>
+										</td>
+										<td> 
+										<br>  
+										</td>
+										<td>
+											<p>Twitter</p>
+										</td>
+										<td>
+												<br>
+										</td>
+										<td>
+											
+										</td>
+										<td>
+											<p>GitHub</p>
+										</td>
+									</tr>
+									
+								</table>
+								
 							</ul>
 							<div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
 								<nav>
 									<ul class="nav nav-pills" id="mainNav">
 										
-										<li class="<?php if($_GET['op'] == 'inicio'){ echo 'active'; } ?>" id="op_inicio"><a href="index.php?op=inicio">Inicio</a></li>
+										<li class="<?php if($_GET['op'] == 'inicio'){ echo 'active'; } ?>" id="op_inicio">
+											<a href="index.php?op=inicio">Inicio</a>
+										</li>
 										<li class="<?php if($_GET['op'] == 'equipo'){ echo 'active'; } ?>" id="op_nosotros"><a href="equipo.php?op=equipo">Equipo</a></li>
-										<li><a href="https://sucrecoin.org/public" target="_blank">ICO</a></li>
+										<li>
+											<a href="https://sucrecoin.org/public" target="_blank">ICO</a>
+										</li>
 										<li class="dropdown <?php if($_GET['op'] == 'sucrecoin'){ echo 'active'; } ?>">
-														<a class="dropdown-toggle" href="#">
-															Sucrecoin
-														</a>
-														<ul class="dropdown-menu">
-																	<li><a href="WhitePaper-15Noviembre2017-SucreCoin.pdf" target="_blank">WhitePaper</a></li>
-																	<li><a href="roadmap.php?op=sucrecoin">RoadMap</a></li>
-																	
-																</ul>
-													</li>
+											<a class="dropdown-toggle" href="#">Sucrecoin</a>
+											<ul class="dropdown-menu">
+												<li>
+													<a href="WhitePaper-15Noviembre2017-SucreCoin.pdf" target="_blank">WhitePaper</a>
+												</li>
+												<li>
+													<a href="roadmap.php?op=sucrecoin">RoadMap</a>
+												</li>
+											</ul>
+
+										</li>
 													
 										<li class="dropdown <?php if($_GET['op'] == 'recursos'){ echo 'active'; } ?>">
 											<a class="dropdown-toggle" href="#">
 															Recursos
-														</a>
+											</a>
 											<ul class="dropdown-menu">
-												<li><a href="http://explorer.sucrecoin.org" target="_blank">Explorer</a></li>
-												<li><a href="http://pool.sucrecoin.org" target="_blank">Pool Mining</a></li>
+												<li>
+													<a href="http://explorer.sucrecoin.org" target="_blank">Explorer</a>
+												</li>
+												<li>
+													<a href="http://pool.sucrecoin.org" target="_blank">Pool Mining</a>
+												</li>
+
 											</ul>
 										</li>
 										<li class="dropdown <?php if($_GET['op'] == 'download'){ echo 'active'; } ?>">
-														<a class="dropdown-toggle" href="#">
-															Download
-														</a>
-														<ul class="dropdown-menu">
-																	<li><a href="mineria.php?op=download">Minería</a></li>
-																	<li><a href="wallets.php?op=download">Wallets</a></li>
-																	
-																	<li><a href="source.php?op=download">Source Code</a></li>
-																	
-																</ul>
-													</li>
+											<a class="dropdown-toggle" href="#">Download</a>
+											<ul class="dropdown-menu">
+												<li>
+													<a href="mineria.php?op=download">Minería</a>
+												</li>
+												<li>
+													<a href="wallets.php?op=download">Wallets</a>
+												</li>
+												<li>
+													<a href="source.php?op=download">Source Code</a>
+												</li>
+											</ul>
+										</li>
+
 										
-										<li class="<?php if($_GET['op'] == 'contacto'){ echo 'active'; } ?>" id="op_soporte"><a href="contacto.php?op=contacto">Contactenos</a></li>
+										<li class="<?php if($_GET['op'] == 'contacto'){ echo 'active'; } ?>" id="op_soporte">
+											<a href="contacto.php?op=contacto">Contactenos</a>
+										</li>
 										
 										
 									</ul>

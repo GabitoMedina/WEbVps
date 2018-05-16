@@ -40,4 +40,4 @@
 		<script src="vendor/modernizr/modernizr.min.js"></script>
 
 		<link rel="stylesheet" href="css/logos/style.css">
-		<!-- <link rel="stylesheet" href="css/logos/bootstrap.min.css" > -->
+		<link rel="stylesheet" href="css/logos/bootstrap.min.css" >

@@ -36,13 +36,13 @@
 				</section>
 
 				<div class="container">
-
-									<ul class="nav nav-pills sort-source" data-sort-id="team" data-option-key="filter">
+					<ul class="nav nav-pills sort-source" data-sort-id="team" data-option-key="filter">
 						<li data-option-value="*" class="active"><a href="#">Mostrar todos</a></li>
 						<li data-option-value=".ceo"><a href="#">CEO</a></li>
 						<li data-option-value=".programador"><a href="#">Programadores</a></li>
 						<li data-option-value=".consultor"><a href="#">Consultores</a></li>
-						<li data-option-value=".diseno"><a href="#">Diseñadores</a></li>
+						<li data-option-value=".director"><a href="#">Directores</a></li>
+						<li data-option-value=".asociado"><a href="#">Asociados</a></li>
 					</ul>
 
 					<hr>
@@ -54,17 +54,17 @@
 								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item ceo">
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
-											<a href="#">
-												<img src="img/team/team-1.jpg" class="img-responsive" alt="">
+											<a href="">
+												<img src="team/Carlos.png" class="img-responsive" alt="">
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Carlos Gamarra</span>
 													<span class="thumb-info-type">CEO | Fundador</span>
-													<span class="thumb-info-type">Guayaquil - Ecuador</span>
+													<!-- <span class="thumb-info-type">Guayaquil - Ecuador</span> -->
 												</span>
 											</a>
 										</span>
 										<span class="thumb-info-caption">
-											<span class="thumb-info-caption-text">Chief of Company Telecomunication and Security.</span>
+											<!-- <span class="thumb-info-caption-text">Chief of Company Telecomunication and Security.</span> -->
 											<span class="thumb-info-social-icons">
 												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
 												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
@@ -73,19 +73,19 @@
 										</span>
 									</span>
 								</li>
-								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item programador">
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item director">
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="#">
-												<img src="team/marco.png" class="img-responsive" alt="">
+												<img src="team/david.png" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner">Marco Triviño</span>
-													<span class="thumb-info-type">Programador Sénior</span><span class="thumb-info-type">Guayaquil - Ecuador</span>
+													<span class="thumb-info-inner">David Muñoz</span>
+													<span class="thumb-info-type">Director Interno</span><!-- <span class="thumb-info-type">Guayaquil - Ecuador</span> -->
 												</span>
 											</a>
 										</span>
 										<span class="thumb-info-caption">
-											<span class="thumb-info-caption-text">Programador Analista de Sistema con 20 años de experiencia</span>
+											<!-- <span class="thumb-info-caption-text">Programador Analista de Sistema con 20 años de experiencia</span> -->
 											<span class="thumb-info-social-icons">
 												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
 												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
@@ -94,22 +94,45 @@
 										</span>
 									</span>
 								</li>
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item director">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="#">
+												<img src="team/kevin.png" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">Kevin Morales</span>
+													<span class="thumb-info-type">Director Creativo</span><!-- <span class="thumb-info-type">Guayaquil - Ecuador</span> -->
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<!-- <span class="thumb-info-caption-text">Programador Analista de Sistema con 20 años de experiencia</span> -->
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+
 								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item programador">
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="#">
-												<img src="team/gio.png" class="img-responsive" alt="">
+												<img src="team/gio.jpg" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner"><small>Tec.</small> Giovanni Orellana</span>
-													<span class="thumb-info-type">Programador Júnior</span><span class="thumb-info-type">El Salvador - San Salvador </span>
-												</span>
+													<span class="thumb-info-inner">Giovanni Orellana</span>
+													<span class="thumb-info-type">Programing Developer</span>
+												<!-- <span class="thumb-info-type">	Otavalo - Ecuador
+												</span> -->
 											</a>
-										</span><br>
+										</span>
 										<span class="thumb-info-caption">
-											<span class="thumb-info-caption-text">Programador Junnior con 2 años de experiencia</span>
+											<!-- <span class="thumb-info-caption-text">MSC, con experiencia en Analisis de Procesos. </span> -->
 											<span class="thumb-info-social-icons">
-												<a target="_blank" href="https://www.facebook.com/ifgiovanni/"><i class="fa fa-facebook"></i><span>Facebook</span></a>
-												<a href="http://www.twitter.com/ifgiovanni"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
 												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
 											</span>
 										</span>
@@ -119,16 +142,16 @@
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="#">
-												<img src="img/team/team-4.jpg" class="img-responsive" alt="">
+												<img src="team/arturo.png" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner">MSC. Christian Rosado</span>
-													<span class="thumb-info-type">Consultor Informático</span>
-												<span class="thumb-info-type">	Otavalo - Ecuador
+													<span class="thumb-info-inner"> Arturo Araujo</span>
+													<span class="thumb-info-type">Consultor de IT</span>
+													<!-- <span class="thumb-info-type">Pedro Carbo - Ecuador</span> -->
 												</span>
 											</a>
 										</span>
 										<span class="thumb-info-caption">
-											<span class="thumb-info-caption-text">MSC, con experiencia en Analisis de Procesos. </span>
+											<!-- <span class="thumb-info-caption-text">Consultor Marketing Digital & Diseño Grafico</span> -->
 											<span class="thumb-info-social-icons">
 												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
 												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
@@ -137,20 +160,44 @@
 										</span>
 									</span>
 								</li>
-								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item diseno">
+
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item consultor">
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="#">
-												<img src="team/luis.png" class="img-responsive" alt="">
+												<img src="team/darwin.png" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner"> <small>ING</small> Luis Emilio Figueroa</span>
-													<span class="thumb-info-type">Diseñador</span>
-													<span class="thumb-info-type">Pedro Carbo - Ecuador</span>
+													<span class="thumb-info-inner"> Darwing Jacho</span>
+													<span class="thumb-info-type">Consultor de Riesgo</span>
+													<!-- <span class="thumb-info-type">Pedro Carbo - Ecuador</span> -->
 												</span>
 											</a>
 										</span>
 										<span class="thumb-info-caption">
-											<span class="thumb-info-caption-text">Consultor Marketing Digital & Diseño Grafico</span>
+											<!-- <span class="thumb-info-caption-text">Consultor Marketing Digital & Diseño Grafico</span> -->
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item programador">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="#">
+												<img src="team/marco.png" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner"> Marco Triviño</span>
+													<span class="thumb-info-type">Programador</span>
+													<!-- <span class="thumb-info-type">Pedro Carbo - Ecuador</span> -->
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<!-- <span class="thumb-info-caption-text">Consultor Marketing Digital & Diseño Grafico</span> -->
 											<span class="thumb-info-social-icons">
 												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
 												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
@@ -160,6 +207,52 @@
 									</span>
 								</li>
 								
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item consultor">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="#">
+												<img src="img/gallery/gallery-1.jpg" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner"> Christian Rosado</span>
+													<span class="thumb-info-type">Consultor Financiero Y Conrol</span>
+													<!-- <span class="thumb-info-type">Pedro Carbo - Ecuador</span> -->
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<!-- <span class="thumb-info-caption-text">Consultor Marketing Digital & Diseño Grafico</span> -->
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item asociado">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="#">
+												<img src="img/gallery/gallery-1.jpg" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner"> David Vichenzo</span>
+													<span class="thumb-info-type">Asociado Europa</span>
+													<!-- <span class="thumb-info-type">Pedro Carbo - Ecuador</span> -->
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<!-- <span class="thumb-info-caption-text">Consultor Marketing Digital & Diseño Grafico</span> -->
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+
 							</ul>
 						</div>
 

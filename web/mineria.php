@@ -22,7 +22,7 @@
 						<div class="row">
 							<div class="col-md-12">
 								<ul class="breadcrumb">
-									<li><a href="index.html">Inicio</a></li>
+									<li><a href="#">Inicio</a></li>
 									<li><a href="#">Download</a></li>
 									<li class="active">Minería</li>
 								</ul>
