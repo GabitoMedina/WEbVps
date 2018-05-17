@@ -1,3 +1,19 @@
+<div class="comtainer">
+	<div class="row">
+		<center>
+			<div class="col-md-12">
+			<h4>
+			Casas de Cambio
+		</h4>
+		<div class="col-lg-6 col-sm-6 col-md-6 col-xs-12">
+			<div class="form-group">
+				<a href=""><img src="img/eth_ico.png">nombre</a>				
+			</div>			
+		</div>
+		</div>
+		</center>
+	</div>
+</div>
 <div class="container">
 		<div class="row">
 
@@ -42,48 +58,29 @@
 			<div class="col-md-2">
 				<h4>Síguenos </h4>
 				<ul class="header-social-icons social-icons hidden-xs">
-								<table style="width:100%">
-									<tr>
-										<th>
-											<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>				
-										</th>
-										<th>
-											<br>
-										</th>
-										<th>
-											<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-										</th>
-										<th>
-											
-										</th>
-										<th>
-											
-										</th>
-										<th>
-											<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i></a></li>
-										</th>
-									</tr>
-									<tr>
-										<td>
-											<p>Facebook</p>
-										</td>
-										<td> 
-										<br>  
-										</td>
-										<td>
-											<p>Twitter</p>
-										</td>
-										<td>
-												<br>
-										</td>
-										<td>
-											
-										</td>
-										<td>
-											<p>GitHub</p>
-										</td>
-									</tr>
-									
+								<table class="table table-dark  ">
+									<th>
+									<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a>
+									</li>
+									</th>
+
+									<th>
+										<p>Facebook</p>
+									</th>
+									<th>
+										<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a>
+										</li>
+									</th>
+									<th>
+										<p>Twitter</p>
+									</th>										
+									<th>
+									    <li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i></a>
+									    </li>
+									</th>
+									<th>
+									   <p>Github</p>
+									</th>
 								</table>
 								
 							</ul>

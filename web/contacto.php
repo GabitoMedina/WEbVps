@@ -77,7 +77,11 @@ El Sucre es la moneda antigua de los Ecuatorianos hasta el año 2000, dicho año
 
 						<h4 class="heading-primary">Síguenos <strong>en</strong></h4>
 							<ul class="list list-icons list-icons-style-3 mt-xlg">
-								<li><i class="fa fa-facebook"></i> <strong>Facebook:</strong> <a href="https://www.facebook.com/sucrecoin/" target="_blank">Sucrecoin en Facebook <i class="fa fa-external-link"></i></a></li>
+								<li>
+									<i class="fa fa-facebook"></i><strong>Facebook:</strong>
+									<a href="https://www.facebook.com/sucrecoin/" target="_blank">Sucrecoin en Facebook<i class="fa fa-external-link"></i>
+									</a>
+								</li>
 								<li><i class="fa fa-twitter"></i> <strong>Twitter:</strong> <a href="https://twitter.com/sucrecoin_xsr" target="_blank">@SucreCoin_XSR en Twitter <i class="fa fa-external-link"></i></a></li>
 								<li><i class="fa fa-youtube"></i> <strong>Youtube:</strong> <a href="https://www.youtube.com/channel/UC3z_b8e_wCC2R2VCKvXF1eQ" target="_blank">Sucrecoin en Youtube <i class="fa fa-external-link"></i></a></li>
 								<li><i class="fa fa-instagram"></i> <strong>Instagram:</strong> <a href="https://www.instagram.com/sucrecoin/" target="_blank">@sucrecoin en Instagram <i class="fa fa-external-link"></i></a></li>
