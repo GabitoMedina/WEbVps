@@ -8,6 +8,8 @@
 						</a>
 					</div>
 				</div>
+
+
 				<div class="header-column">
 					
 					<div class="header-row">
@@ -15,33 +17,37 @@
 							<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
 								<i class="fa fa-bars"></i>
 							</button>
-							<ul class="header-social-icons social-icons hidden-xs">
-								<table class="table table-dark  ">
-									<th>
-									<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a>
-									</li>
-									</th>
 
-									<th>
-										<p>Facebook</p>
-									</th>
-									<th>
-										<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a>
-										</li>
-									</th>
-									<th>
-										<p>Twitter</p>
-									</th>										
-									<th>
-									    <li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Github"><i class="fa fa-github"></i></a>
-									    </li>
-									</th>
-									<th>
-									   <p>Github</p>
-									</th>
-								</table>
-						</div>
-					</ul>
+							<!--***follow us ****--> 
+							<div class="cold-md-12">
+								<div class="form-group">
+									<div class="cold-md-1">
+										<ul class="header-social-icons social-icons hidden-xs"><li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i> Facebook</a></li>
+										</ul>
+									</div>
+									<div class="cold-md-3">
+										<ul class="header-social-icons social-icons hidden-xs"><li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i> Facebook</a></li>
+										</ul>
+									</div>
+
+								
+								</div>
+
+							</div>
+							<ul class="header-social-icons social-icons hidden-xs">
+								<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+								<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+								<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i></a></li>
+							</ul>
+							
+							<!-- <ul class="header-social-icons social-icons hidden-xs">
+								<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+								<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
+								<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i></a></li>
+							</ul> -->
+
+
+							
 				 <div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
 								<nav>
 									<ul class="nav nav-pills" id="mainNav">

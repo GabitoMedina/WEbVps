@@ -1,6 +1,51 @@
-<div class="comtainer">
+<!-- <div class="comtainer">
+	<center><span><h2>Casas de Cambios</h2></span></center>
+	
 	<div class="row">
-		<center>
+		
+		<div class="col-md-1">
+			<div class="form-group">
+				<a href=""><img src="img/eth_ico.png">nombre</a>				
+			</div>
+		</div>
+		<div class="col-md-1">
+			<div class="form-group">
+				<a href=""><img src="img/eth_ico.png">nombre1</a>				
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-md-1">
+				<div class="form-group">
+					<a href=""><img src="img/eth_ico.png">nombre3</a>				
+				</div>
+			</div>
+			<div class="col-md-1">
+				<div class="form-group">
+					<a href=""><img src="img/eth_ico.png">nombre4</a>				
+				</div>
+			</div>
+			<div class="col-md-1">
+				<div class="form-group">
+					<a href=""><img src="img/eth_ico.png">nombre5</a>				
+				</div>
+			</div>
+			<div class="col-md-1">
+			<div class="form-group">
+				<a href=""><img src="img/eth_ico.png">nombre4</a>				
+			</div>
+		</div>
+
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+
+		<!-- <center>
 			<div class="col-md-12">
 			<h4>
 			Casas de Cambio
@@ -11,9 +56,9 @@
 			</div>			
 		</div>
 		</div>
-		</center>
-	</div>
-</div>
+		</center> -->
+	<!-- </div>
+</div> --> 
 <div class="container">
 		<div class="row">
 
@@ -43,7 +88,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div class="contact-details">
 					<h4>Contacto</h4>
 					<ul class="contact">
@@ -55,37 +100,67 @@
 					</ul>
 				</div>
 			</div>
-			<div class="col-md-2">
+			
+			<div class="col-md-6">
 				<h4>Síguenos </h4>
-				<ul class="header-social-icons social-icons hidden-xs">
-								<table class="table table-dark  ">
-									<th>
-									<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a>
-									</li>
-									</th>
+				<div class="row">
+					<div class="form-group">
+						<div class="col-md-2">
+						<ul class="header-social-icons social-icons hidden-xs">							
+							<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i> Facebook</a>
+							</li>
+						</ul>
+						</div>
+						<div class="col-md-2">
+						<ul class="header-social-icons social-icons hidden-xs">							
+							<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i>Twitter</a>
+							</li>
+						</ul>
+						</div>
+						<div class="col-md-2">
+						<ul class="header-social-icons social-icons hidden-xs">							
+							<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i>Github</a>
+							</li>
+						</ul>
+						</div>
+						
+					</div>				
+				
+				</div>		
+				
+			</div>
+			<a href="">Casas de Cambio</a>
+			<div class="row">
+				
+		
+				<div class="col-md-1">
+					<div class="form-group">
+						<a href=""><img src="img/c.cambio/bitbtc2.png"></a>				
+					</div>
+					<div class="form-group">
+						<a href=""><img src="img/c.cambio/btlv1.png"></a>				
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-md-1">
+						<div class="form-group">
+							<a href=""><img src="img/c.cambio/cfinex1.png"></a>				
+						</div>
+						<div class="form-group">
+							<a href=""><img src="img/c.cambio/cptex1.png"></a>				
+						</div>
+					</div>
+					<div class="col-md-1">
+						<div class="form-group">
+							<a href=""><img src="img/c.cambio/txc1.png"></a>				
+						</div>
+						<div class="form-group">
+						<a href=""><img src="img/c.cambio/x4.png"></a>				
+					</div>
+					</div>					
 
-									<th>
-										<p>Facebook</p>
-									</th>
-									<th>
-										<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a>
-										</li>
-									</th>
-									<th>
-										<p>Twitter</p>
-									</th>										
-									<th>
-									    <li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i></a>
-									    </li>
-									</th>
-									<th>
-									   <p>Github</p>
-									</th>
-								</table>
-								
-							</ul>
-				
-				
+				</div>
 			</div>
 		</div>
 	</div>
