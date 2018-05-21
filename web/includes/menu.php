@@ -4,7 +4,7 @@
 				<div class="header-column">
 					<div class="header-logo">
 						<a href="index.php?op=inicio">
-							<img alt="Antra Global Wallet" width="272" height="80" data-sticky-width="203" data-sticky-height="60" data-sticky-top="33" src="img/logo.png">
+							<img alt="Antra Global Wallet" width="250" height="70" data-sticky-width="180" data-sticky-height="50" data-sticky-top="25" src="img/logo.png">
 						</a>
 					</div>
 
@@ -25,12 +25,16 @@
 								<div class="row">
 									<div class="form-group">
 										<div class="col-md-8">
-												<ul class="header-social-icons social-icons hidden-xs">							
+											<ul class="header-social-icons social-icons hidden-xs">	
+																	
 													<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i> Facebook</a>
 													</li>
 												</ul>
+												
 										</div>
+
 									<div class="col-md-2">
+
 										<ul class="header-social-icons social-icons hidden-xs">							
 											<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i>Twitter</a>
 											</li>
