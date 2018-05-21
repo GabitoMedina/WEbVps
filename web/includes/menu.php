@@ -7,19 +7,52 @@
 							<img alt="Antra Global Wallet" width="272" height="80" data-sticky-width="203" data-sticky-height="60" data-sticky-top="33" src="img/logo.png">
 						</a>
 					</div>
+
 				</div>
 
 
 				<div class="header-column">
+
 					
 					<div class="header-row">
+
 						<div class="header-nav">
 							<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
 								<i class="fa fa-bars"></i>
 							</button>
 
+							<div class="col-md-12">
+								<div class="row">
+									<div class="form-group">
+										<div class="col-md-8">
+												<ul class="header-social-icons social-icons hidden-xs">							
+													<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i> Facebook</a>
+													</li>
+												</ul>
+										</div>
+									<div class="col-md-2">
+										<ul class="header-social-icons social-icons hidden-xs">							
+											<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i>Twitter</a>
+											</li>
+										</ul>
+									</div>
+									<div class="col-md-2">
+										<ul class="header-social-icons social-icons hidden-xs">							
+											<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Github"><i class="fa fa-github"></i>Github</a>
+											</li>
+										</ul>
+									</div>
+						
+									</div>				
+				
+								</div>
+								
+							</div>
+
+
+
 							<!--***follow us ****--> 
-							<div class="cold-md-12">
+							<!-- <div class="cold-md-12">
 								<div class="form-group">
 									<div class="cold-md-1">
 										<ul class="header-social-icons social-icons hidden-xs"><li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i> Facebook</a></li>
@@ -33,13 +66,13 @@
 								
 								</div>
 
-							</div>
-							<ul class="header-social-icons social-icons hidden-xs">
+							</div> -->
+							<!-- <ul class="header-social-icons social-icons hidden-xs">
 								<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 								<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
 								<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i></a></li>
 							</ul>
-							
+							 -->
 							<!-- <ul class="header-social-icons social-icons hidden-xs">
 								<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
 								<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>

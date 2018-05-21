@@ -119,7 +119,7 @@
 						</div>
 						<div class="col-md-2">
 						<ul class="header-social-icons social-icons hidden-xs">							
-							<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i>Github</a>
+							<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Github"><i class="fa fa-github"></i>Github</a>
 							</li>
 						</ul>
 						</div>
@@ -135,28 +135,28 @@
 		
 				<div class="col-md-1">
 					<div class="form-group">
-						<a href=""><img src="img/c.cambio/bitbtc2.png"></a>				
+						<a href="https://bitebtc.com/trade/xsr_btc" target="_blank"><img src="img/c.cambio/bitbtc2.png" title="biteBTC" ></a>				
 					</div>
 					<div class="form-group">
-						<a href=""><img src="img/c.cambio/btlv1.png"></a>				
+						<a href="https://bitexlive.com/" target="_blank"><img src="img/c.cambio/btlv1.png"  title="Bitexlive"></a>				
 					</div>
 				</div>
 				
 				<div class="row">
 					<div class="col-md-1">
 						<div class="form-group">
-							<a href=""><img src="img/c.cambio/cfinex1.png"></a>				
+							<a href="https://cfinex.com/#XSR-BTC" target="_blank"><img src="img/c.cambio/cfinex1.png" title="Cfinex" ></a>				
 						</div>
 						<div class="form-group">
-							<a href=""><img src="img/c.cambio/cptex1.png"></a>				
+							<a href="https://c-patex.com/markets/xsrbtc" target="_ blank"><img src="img/c.cambio/cptex1.png" title="C-Patex" ></a>				
 						</div>
 					</div>
 					<div class="col-md-1">
 						<div class="form-group">
-							<a href=""><img src="img/c.cambio/txc1.png"></a>				
+							<a href="https://thexchanger.io/" target="_blank"><img src="img/c.cambio/txc1.png" title="Thexchanger.io" ></a>				
 						</div>
 						<div class="form-group">
-						<a href=""><img src="img/c.cambio/x4.png"></a>				
+						<a href="https://www.southxchange.com/Market/Book/XSR/BTC" target="_blank"><img src="img/c.cambio/x4.png" title="Southxchange" ></a>				
 					</div>
 					</div>					
 
