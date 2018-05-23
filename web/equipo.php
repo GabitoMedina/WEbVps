@@ -42,7 +42,7 @@
 						<li data-option-value=".programador"><a href="#">Programadores</a></li>
 						<li data-option-value=".consultor"><a href="#">Consultores</a></li>
 						<li data-option-value=".director"><a href="#">Directores</a></li>
-						<!-- <li data-option-value=".asociado"><a href="#">Asociados</a></li> -->
+						<li data-option-value=".asociado"><a href="#">Asociados</a></li>
 					</ul>
 
 					<hr>
@@ -194,6 +194,32 @@
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner"> Christian Rosado</span>
 													<span class="thumb-info-type">Consultor Financiero Y Control</span>
+													<!-- <span class="thumb-info-type">Pedro Carbo - Ecuador</span> -->
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<!-- <span class="thumb-info-caption-text">Consultor Marketing Digital & Diseño Grafico</span> -->
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+
+
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item asociado">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="#">
+												<img src="team/Juliana.jpg" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner">
+														JULIANA LOPEZ PRIETO
+													</span>
+													<span class="thumb-info-type">Asociada-Bogota-Colombia</span>
 													<!-- <span class="thumb-info-type">Pedro Carbo - Ecuador</span> -->
 												</span>
 											</a>
