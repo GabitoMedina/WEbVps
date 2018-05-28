@@ -109,49 +109,11 @@
 													<a href="http://pool.sucrecoin.org" target="_blank">Pool Mining</a>
 												</li>
 
-												<li class="dropdown-submenu">
-													<a href="index-classic.html">Download</a>
-													<ul class="dropdown-menu">
-														<li>
-													<a href="mineria.php?op=download">Minería</a>
-												</li>
-												<li>
-													<a href="wallets.php?op=download">Wallets</a>
-												</li>
-												<li>
-													<a href="source.php?op=download">Source Code</a>
-												</li>
-													</ul>
-												</li>
+												
 
 											</ul>
 										</li>
-
-										<li class="dropdown <?php if($_GET['op'] == 'sucrecoin'){ echo 'active'; } ?>">
-											<a class="dropdown-toggle" href="#">Sobre Nosotros</a>
-											<ul class="dropdown-menu">
-												<li>
-													<a href="equipo.php?op=equipo">Equipo</a>
-												</li>
-												<li>
-													<a href="WhitePaper-15Noviembre2017-SucreCoin.pdf" target="_blank">WhitePaper</a>
-												</li>
-												<li>
-													<a href="roadmap.php?op=sucrecoin">RoadMap</a>
-												</li>
-												<li >
-													<a href="contacto.php?op=contacto">Contactanos</a>
-												</li>
-												<li >
-													<a href="auspiciantes.php?op=auspiciantes">Auspiciantes</a>
-												</li>
-											</ul>
-
-										</li>
-										
-													
-										
-										<!-- <li class="dropdown <?php if($_GET['op'] == 'download'){ echo 'active'; } ?>">
+										<li class="dropdown <?php if($_GET['op'] == 'download'){ echo 'active'; } ?>">
 											<a class="dropdown-toggle" href="#">Download</a>
 											<ul class="dropdown-menu">
 												<li>
@@ -165,8 +127,41 @@
 												</li>
 											</ul>
 										</li>
- -->
-										
+
+
+										<li class="dropdown <?php if($_GET['op'] == 'sucrecoin'){ echo 'active'; } ?>">
+											<a class="dropdown-toggle" href="#">Sobre Nosotros</a>
+											<ul class="dropdown-menu">
+												
+												<li>
+													<a href="WhitePaper-15Noviembre2017-SucreCoin.pdf" target="_blank">WhitePaper</a>
+												</li>
+												<li>
+													<a href="roadmap.php?op=sucrecoin">RoadMap</a>
+												</li>
+												
+												<li >
+													<a href="auspiciantes.php?op=auspiciantes">Auspiciantes</a>
+												</li>
+												<li>
+													<a href="casacambio.php?op=casacambio">casaCambio</a>
+												</li>
+											</ul>
+
+										</li>
+
+										<!-- equipo -->
+
+										<li  class="dropdown <?php if($_GET['op'] == 'equipo'){ echo 'active'; } ?>">
+
+											<li>
+													<a href="equipo.php?op=equipo">Equipo</a>
+												</li>
+
+
+											
+										</li>
+
 										<li class="<?php if($_GET['op'] == 'contacto'){ echo 'active'; } ?>" id="op_soporte">
 											<a href="contacto.php?op=contacto">Contactenos</a>
 										</li>

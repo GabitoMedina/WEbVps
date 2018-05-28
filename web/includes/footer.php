@@ -59,6 +59,10 @@
 		</center> -->
 	<!-- </div>
 </div> --> 
+<div class="main" role="main">
+			<?php include("includes/casas.php"); ?>
+
+		</div>
 <div class="container">
 		<div class="row">
 
@@ -178,8 +182,8 @@
 				<div class="col-md-4">
 					<nav id="sub-menu">
 						<ul>
-							<li><a href="WhitePaper-15Noviembre2017-SucreCoin.pdf">Aviso de Privacidad</a></li>
-							<li><a href="WhitePaper-15Noviembre2017-SucreCoin.pdf">Terminos legales</a></li>
+							<li><a href="WhitePaper-15Noviembre2017-SucreCoin.pdf" target="_blank">Aviso de Privacidad</a></li>
+							<li><a href="WhitePaper-15Noviembre2017-SucreCoin.pdf" target="_blank">Terminos legales</a></li>
 
 						</ul>
 					</nav>

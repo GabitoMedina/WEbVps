@@ -59,7 +59,7 @@
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Carlos Gamarra</span>
 													<span class="thumb-info-type">CEO | Fundador</span>
-													<!-- <span class="thumb-info-type">Guayaquil - Ecuador</span> -->
+													<span class="thumb-info-type">Guayaquil-Ecuador</span>
 												</span>
 											</a>
 										</span>
@@ -80,7 +80,7 @@
 												<img src="team/david.png" class="img-responsive" alt="">
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">David Muñoz</span>
-													<span class="thumb-info-type">Director Interno</span><!-- <span class="thumb-info-type">Guayaquil - Ecuador</span> -->
+													<span class="thumb-info-type">Director Interno</span><span class="thumb-info-type">Quito-Ecuador</span>
 												</span>
 											</a>
 										</span>
@@ -101,7 +101,7 @@
 												<img src="team/kevin.png" class="img-responsive" alt="">
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Kevin Morales</span>
-													<span class="thumb-info-type">Director Creativo</span><!-- <span class="thumb-info-type">Guayaquil - Ecuador</span> -->
+													<span class="thumb-info-type">Director Creativo</span><span class="thumb-info-type">Quito-Ecuador</span>
 												</span>
 											</a>
 										</span>
@@ -124,8 +124,8 @@
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">Giovanni Orellana</span>
 													<span class="thumb-info-type">Programing Developer</span>
-												<!-- <span class="thumb-info-type">	Otavalo - Ecuador
-												</span> -->
+												<span class="thumb-info-type">	Salvador
+												</span>
 											</a>
 										</span>
 										<span class="thumb-info-caption">
@@ -146,7 +146,7 @@
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner"> Arturo Araujo</span>
 													<span class="thumb-info-type">Consultor de IT</span>
-													<!-- <span class="thumb-info-type">Pedro Carbo - Ecuador</span> -->
+													<span class="thumb-info-type">Guayaquil-Ecuador</span>
 												</span>
 											</a>
 										</span>
@@ -161,15 +161,15 @@
 									</span>
 								</li>
 
-								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item consultor">
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item asociado">
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="#">
-												<img src="team/darwin.png" class="img-responsive" alt="">
+												<img src="team/davidlara.png" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner"> Darwing Jacho</span>
-													<span class="thumb-info-type">Consultor de Riesgo</span>
-													<!-- <span class="thumb-info-type">Pedro Carbo - Ecuador</span> -->
+													<span class="thumb-info-inner"> David Lara</span>
+													<span class="thumb-info-type">Ing. Harvard</span>
+													<span class="thumb-info-type">Guatemala</span>
 												</span>
 											</a>
 										</span>
@@ -190,11 +190,34 @@
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="#">
-												<img src="img/gallery/gallery-1.jpg" class="img-responsive" alt="">
+												<img src="team/moises.png" class="img-responsive" alt="">
 												<span class="thumb-info-title">
-													<span class="thumb-info-inner"> Christian Rosado</span>
-													<span class="thumb-info-type">Consultor Financiero Y Control</span>
-													<!-- <span class="thumb-info-type">Pedro Carbo - Ecuador</span> -->
+													<span class="thumb-info-inner"> Moisés Manzano</span>
+													<span class="thumb-info-type">Asesor de Telegram</span>
+													<span class="thumb-info-type">Venezuela</span>
+												</span>
+											</a>
+										</span>
+										<span class="thumb-info-caption">
+											<!-- <span class="thumb-info-caption-text">Consultor Marketing Digital & Diseño Grafico</span> -->
+											<span class="thumb-info-social-icons">
+												<a target="_blank" href="http://www.facebook.com"><i class="fa fa-facebook"></i><span>Facebook</span></a>
+												<a href="http://www.twitter.com"><i class="fa fa-twitter"></i><span>Twitter</span></a>
+												<a href="http://www.linkedin.com"><i class="fa fa-linkedin"></i><span>Linkedin</span></a>
+											</span>
+										</span>
+									</span>
+								</li>
+
+								<li class="col-md-3 col-sm-6 col-xs-12 isotope-item consultor">
+									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
+										<span class="thumb-info-wrapper">
+											<a href="#">
+												<img src="team/arcangel.png" class="img-responsive" alt="">
+												<span class="thumb-info-title">
+													<span class="thumb-info-inner"> Arcangel Obatala</span>
+													<span class="thumb-info-type">Asesor de Telegram</span>
+													<span class="thumb-info-type">Venezuela</span>
 												</span>
 											</a>
 										</span>
@@ -214,13 +237,13 @@
 									<span class="thumb-info thumb-info-hide-wrapper-bg mb-xlg">
 										<span class="thumb-info-wrapper">
 											<a href="#">
-												<img src="team/Juliana.jpg" class="img-responsive" alt="">
+												<img src="team/juliana.png" class="img-responsive" alt="">
 												<span class="thumb-info-title">
 													<span class="thumb-info-inner">
-														JULIANA LOPEZ PRIETO
+														JULIANA LOPEZ 
 													</span>
-													<span class="thumb-info-type">Asociada-Bogota-Colombia</span>
-													<!-- <span class="thumb-info-type">Pedro Carbo - Ecuador</span> -->
+													<span class="thumb-info-type">Asesora Comercial</span>
+													<span class="thumb-info-type">Colombia</span>
 												</span>
 											</a>
 										</span>
