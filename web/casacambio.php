@@ -6,20 +6,34 @@
 	<?php include("includes/head.php"); ?>
 </head>
 <body>
+
 	<div class="body">
 		<header data-plugin-options="{'stickyEnabled': true, 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyStartAt': 57, 'stickySetTop': '-57px', 'stickyChangeLogo': true}" id="header">
 			<?php include("includes/menu.php"); ?>
 		</header>
-		<hr >
 
-		<div class="main" role="main">
+		<hr >
+		<center><h2>Casas de Cambio</h2></center>
+		<hr class="tall" /> 
+		<div class="home-intro" id="home-intro">
+						<div class="container">
+							<div class="row">
+						<div class="col-md-8">
+					
 			<?php include("includes/casas.php"); ?>
 
-		</div>
+		
+				</div>
+				
+					</div>
+				</div>
 
-			<footer id="footer">
+		
+
+			
+		</div>
+		<footer id="footer">
 				<?php include("includes/footer.php"); ?>
 			</footer>
-		</div>
 		<?php include("includes/scripts.php"); ?></body>
 		</html>

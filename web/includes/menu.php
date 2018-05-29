@@ -55,35 +55,7 @@
 
 
 
-							<!--***follow us ****--> 
-							<!-- <div class="cold-md-12">
-								<div class="form-group">
-									<div class="cold-md-1">
-										<ul class="header-social-icons social-icons hidden-xs"><li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i> Facebook</a></li>
-										</ul>
-									</div>
-									<div class="cold-md-3">
-										<ul class="header-social-icons social-icons hidden-xs"><li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i> Facebook</a></li>
-										</ul>
-									</div>
-
-								
-								</div>
-
-							</div> -->
-							<!-- <ul class="header-social-icons social-icons hidden-xs">
-								<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-								<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-								<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i></a></li>
-							</ul>
-							 -->
-							<!-- <ul class="header-social-icons social-icons hidden-xs">
-								<li class="social-icons-facebook"><a href="https://www.facebook.com/sucrecoin/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-								<li class="social-icons-twitter"><a href="https://twitter.com/SucreCoin_XSR" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-								<li class="social-icons-github"><a href="https://github.com/charliegama/sucrecoin" target="_blank" title="Twitter"><i class="fa fa-github"></i></a></li>
-							</ul> -->
-
-
+							
 							
 				 <div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
 								<nav>
@@ -92,10 +64,7 @@
 										<li class="<?php if($_GET['op'] == 'inicio'){ echo 'active'; } ?>" id="op_inicio">
 											<a href="index.php?op=inicio">Inicio</a>
 										</li>
-										<!-- <li class="<?php if($_GET['op'] == 'equipo'){ echo 'active'; } ?>" id="op_nosotros"><a href="equipo.php?op=equipo">Equipo</a></li> -->
-										<!-- <li>
-											<a href="https://sucrecoin.org/public" target="_blank">ICO</a>
-										</li> -->
+										
 										<li class="dropdown <?php if($_GET['op'] == 'recursos'){ echo 'active'; } ?>">
 											<a class="dropdown-toggle" href="#">
 															Recursos
@@ -144,7 +113,7 @@
 													<a href="auspiciantes.php?op=auspiciantes">Auspiciantes</a>
 												</li>
 												<li>
-													<a href="casacambio.php?op=casacambio">casaCambio</a>
+													<a href="casacambio.php?op=casacambio">Casas de Cambio</a>
 												</li>
 											</ul>
 
